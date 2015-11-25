@@ -1,6 +1,5 @@
 //
 //  PhotoViewerGridCell.m
-//  Traveloggia
 //
 //  Created by Anton Morozov on 25.07.14.
 //  Copyright (c) 2014 Anton Morozov. All rights reserved.

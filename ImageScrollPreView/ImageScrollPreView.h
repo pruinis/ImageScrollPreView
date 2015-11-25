@@ -1,6 +1,5 @@
 //
 //  ImageScrollPreView.h
-//  Traveloggia
 //
 //  Created by Anton Morozov on 11.08.15.
 //  Copyright (c) 2015 Anton Morozov. All rights reserved.
